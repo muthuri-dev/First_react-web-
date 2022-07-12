@@ -1,0 +1,46 @@
+{
+  "blogs": [
+    {
+      "title": "Hackathon",
+      "body": "This is a better opportunity where one can learn and acquire new skills and also network with others with the same kind.This also may give a internship and maybe also a job. Enroll to the hackathon when an opportunity arises.",
+      "author": "Kennedy",
+      "id": 4
+    },
+    {
+      "title": "Safaricom ke",
+      "body": "The network company 'safaricom' are going to host a five-day hackathon at moi university starting from 12 july,2022 at Moi university",
+      "author": "muthuri",
+      "id": 5
+    },
+    {
+      "title": "Hackathon preparation",
+      "body": "Practice data structures and alogarithms in language you are comfortable with.\nAttempt many leetcode and codechef challenges a many as possible.",
+      "author": "Kennedy",
+      "id": 6
+    },
+    {
+      "title": "Introduction to React js",
+      "body": "React is a best frame work when it comes to javascript programming language. It give a website a nice and interactive page to interact with and also renders pages very fast through avoiding sending request to the server whenever the user requests a certain route.",
+      "author": "damaris",
+      "id": 7
+    },
+    {
+      "title": "Database ",
+      "body": "This Blog-web uses JSON to store data the user inputs. The JSON is used instead of local or online database.",
+      "author": "muthuri",
+      "id": 8
+    },
+    {
+      "title": "Github",
+      "body": "The Blog-web will be pushed to Kennedymuthuri github page. you can clone/download the code or fork the project to contribute.",
+      "author": "damaris",
+      "id": 9
+    },
+    {
+      "title": "Next project",
+      "body": "The project will use React, Node js as a backend and mongodb as database.\nMERN-STACK.",
+      "author": "Kennedy",
+      "id": 10
+    }
+  ]
+}
